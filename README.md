@@ -12,7 +12,7 @@ BuenosModales es una aplicación Android educativa que enseña y refuerza buenos
 
 1. Cloná este repositorio:
    ```bash
-   https://github.com/TuUsuario/BuenosModales.git
+   https://github.com/JuanLorenzoAlba/BuenosModales.git
    ```
 2. Abrilo con Android Studio.
 3. Ejecutalo en un emulador o dispositivo físico con Android 5.0+.
